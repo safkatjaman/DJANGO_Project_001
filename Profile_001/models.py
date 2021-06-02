@@ -8,3 +8,5 @@ class Profile(models.Model):
       age = models.IntegerField()
       address = models.TextField()
       image = models.ImageField()
+
+      
